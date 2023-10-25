@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin&#39;s information | HU Zhicheng&#39;s Homepage</title>
+    <title>admin&#39;s information | HU Zhicheng</title>
     <link>https://mathzchu.github.io/authors/admin/</link>
       <atom:link href="https://mathzchu.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>admin&#39;s information</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2022-present HU Zhicheng</copyright><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://mathzchu.github.io/images/logo_huca2ea89b03c9d6082a20d33d3022e0d5_406156_300x300_fit_lanczos_3.png</url>
       <title>admin&#39;s information</title>
       <link>https://mathzchu.github.io/authors/admin/</link>
     </image>
