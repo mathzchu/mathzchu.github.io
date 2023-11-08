@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HU Zhicheng&#39;s Homepage</title>
-    <link>https://mathzchu.github.io/en/</link>
-      <atom:link href="https://mathzchu.github.io/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>HU Zhicheng&#39;s Homepage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022-present HU Zhicheng</copyright><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <title>HU Zhicheng</title>
+    <link>https://mathzchu.github.io/zh/</link>
+      <atom:link href="https://mathzchu.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    <description>HU Zhicheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><copyright>© 2022-present HU Zhicheng</copyright><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mathzchu.github.io/images/logo_huca2ea89b03c9d6082a20d33d3022e0d5_406156_300x300_fit_lanczos_3.png</url>
-      <title>HU Zhicheng&#39;s Homepage</title>
-      <link>https://mathzchu.github.io/en/</link>
+      <title>HU Zhicheng</title>
+      <link>https://mathzchu.github.io/zh/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://mathzchu.github.io/en/teaching/</link>
+      <link>https://mathzchu.github.io/zh/teaching/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://mathzchu.github.io/en/teaching/</guid>
+      <guid>https://mathzchu.github.io/zh/teaching/</guid>
       <description>&lt;p&gt;&lt;span class=&#34;timestamp-wrapper&#34;&gt;&lt;span class=&#34;timestamp&#34;&gt;&amp;lt;2023-11-08 Wed&amp;gt;&lt;/span&gt;&lt;/span&gt;
 整个事情也很奇怪. 这里做个记录吧.&lt;/p&gt;
 &lt;p&gt;首先, 大概整明白了, 要像 homepage 那样用 widgets 来组合网页. 在新建的目录 (比如本目录) 需要有一个 index.md 文件而不是 &lt;code&gt;_index.md&lt;/code&gt; 文件. 然后 index.md 应该设置 type = &lt;code&gt;&amp;quot;widget_page&amp;quot;&lt;/code&gt;. headless 有没有似乎问题不大, 但可能不能设成 true 的样子.&lt;/p&gt;

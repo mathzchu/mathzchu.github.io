@@ -2,12 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mathzchu.github.io/en/teaching/</loc>
+    <lastmod>2023-11-08T00:22:15+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://mathzchu.github.io/zh/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mathzchu.github.io/en/teaching/"
+                />
+  </url><url>
     <loc>https://mathzchu.github.io/en/authors/admin/</loc>
     <lastmod>2023-10-25T15:52:27+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://mathzchu.github.io/authors/admin/"
+                href="https://mathzchu.github.io/zh/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -20,7 +33,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://mathzchu.github.io/authors/"
+                href="https://mathzchu.github.io/zh/authors/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -33,7 +46,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://mathzchu.github.io/"
+                href="https://mathzchu.github.io/zh/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -45,7 +58,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://mathzchu.github.io/categories/"
+                href="https://mathzchu.github.io/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,7 +70,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://mathzchu.github.io/publication_types/"
+                href="https://mathzchu.github.io/zh/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -69,7 +82,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://mathzchu.github.io/tags/"
+                href="https://mathzchu.github.io/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"

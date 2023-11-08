@@ -1,0 +1,18 @@
+{
+  "name": "HU Zhicheng",
+  "short_name": "HU Zhicheng",
+  "lang": "zh-Hans",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_huca2ea89b03c9d6082a20d33d3022e0d5_406156_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_huca2ea89b03c9d6082a20d33d3022e0d5_406156_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/zh/?utm_source=web_app_manifest"
+}
